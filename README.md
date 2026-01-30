@@ -1,3 +1,14 @@
+# UI Link
+
+Pleae use this link to view the minimal UI for the github actions stored in DB: [UI Link](https://action-repo.vercel.app/)
+
+## Constraint
+
+The backend is deployed on render free tier - therefore it becomes inactive when not used for sometime, please open this URL and wait for 2 minutes so that the backend can start and provide data and recieve data as well from the github action-repo webhook events. 
+
+Thank You
+*******************
+
 # Dev Assessment - Webhook Receiver
 
 Please use this repository for constructing the Flask webhook receiver.
