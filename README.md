@@ -21,7 +21,7 @@ virtualenv venv
 * Activate the virtual env
 
 ```bash
-source venv/bin/activate
+source venv/Scripts/activate
 ```
 
 * Install requirements

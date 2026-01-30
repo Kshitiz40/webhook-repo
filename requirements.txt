@@ -3,3 +3,6 @@ Flask-Cors
 Flask-Login
 Flask-PyMongo
 pymongo
+gunicorn
+waitress
+dotenv
